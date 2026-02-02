@@ -14,8 +14,8 @@ and adjacent basal epithelial layers.
 
 ## Scripts
 - `CD151_Measurement.groovy`
--  DST_Measurement.groovy
--  PLEC_Measurement.groovy
+-  DST_Measurement.groovy 
+-  PLEC_Measurement.groovy 
   Performs pixel-based DAB intensity measurement within manually annotated BMZ regions,
   using estimated H-DAB stain vectors and standardized intensity feature extraction.
 
