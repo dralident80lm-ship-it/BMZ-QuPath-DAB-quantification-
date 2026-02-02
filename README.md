@@ -13,7 +13,9 @@ and adjacent basal epithelial layers.
 - Brightfield H-DAB stained whole-slide images
 
 ## Scripts
-- `CD151_Measurement.groovy`  
+- `CD151_Measurement.groovy`
+-  DST_Measurement.groovy
+-  PLEC_Measurement.groovy
   Performs pixel-based DAB intensity measurement within manually annotated BMZ regions,
   using estimated H-DAB stain vectors and standardized intensity feature extraction.
 
